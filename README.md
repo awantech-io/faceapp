@@ -9,4 +9,6 @@
 * [x] Base css style.
 * [x] Logo component.
 * [x] Install tils for logo styling effect.
-* [x] ImageLinkForm component. 
+* [x] ImageLinkForm component.
+* [x] Rank Component. 
+* [x] Add particles js at background.
