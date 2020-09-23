@@ -6,5 +6,7 @@
 * [x] Project setup.
 * [x] Navigation component.
 * [x] Install tacyons for fast styling.
-* [x] Base css style
-* [] Logo component 
+* [x] Base css style.
+* [x] Logo component.
+* [x] Install tils for logo styling effect.
+* [x] ImageLinkForm component. 
