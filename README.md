@@ -4,4 +4,7 @@
 
 * Checklist
 * [x] Project setup.
-* [ ] Navigation component.
+* [x] Navigation component.
+* [x] Install tacyons for fast styling.
+* [x] Base css style
+* [] Logo component 
